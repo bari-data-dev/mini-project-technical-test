@@ -49,3 +49,9 @@ Exercise_Project_3/
 ├── bronze/
 ├── silver/
 └── gold/
+
+![Data Architecture](https://github.com/user-attachments/assets/8abeabf3-82e6-4a25-89d1-5c86293cd8b8)
+
+
+
+
